@@ -5,6 +5,8 @@ Um app para uma atividade prática do Capacita iRede usando Jatpack Compose.
 Aluno: Lucas do Nascimento Souza
 <br>
 Matricula: Não sei, estou procurando. Já procurei em varias plataformas mas não encontrei.
+<br>
+Data de entrega: 23/09/2026
 
 ## Descrição do uso
 Ao abrir será mostrado apenas um texto informando que ainda não foi cadastrado nenhuma atividade. O usuário entao, deverá clicar no botão + para adicionar uma nova tarefa à lista por meio da janela que irá aparecer.
