@@ -3,6 +3,7 @@
 Um app para uma atividade prática do Capacita iRede usando Jatpack Compose.
 
 Aluno: Lucas do Nascimento Souza
+<br>
 Matricula: Não sei, estou procurando. Já procurei em varias plataformas mas não encontrei.
 
 ## Descrição do uso
