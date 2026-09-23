@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Lista de Tarefas</string>
+    <string name="my_tasks">Minhas Tarefas</string>
+    <string name="no_tasks">Sem tarefas!</string>
+    <string name="not_implemented">Not implemented</string>
+    <string name="add_task">Adicionar Tarefa</string>
+    <string name="update_task">Update Task</string>
+    <string name="update">Atualizar</string>
+    <string name="add">Adicionar</string>
+    <string name="added">Adicionada</string>
+    <string name="deleted">Deleted</string>
+    <string name="title">Titulo</string>
+    <string name="description">Descrição</string>
+    <string name="confirm">Confirmar</string>
+    <string name="concluded">Concluída</string>
+    <string name="concluded_2">Esta tarefa foi concluída.</string>
+    <string name="not_concluded">Tarefa em andamento&#8230;</string>
+    <string name="task_details">Detalhes da Tarefa</string>
+    <string name="format_delete">Apagar \"%s\" da lista?</string>
+
+    <string name="error_title_empty">O Titulo está vazio!</string>
+    <string name="error_description_empty">A descrição está vazia!</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_background">#1D1D1D</color>
+    <color name="accent">#841BE7</color>
+    <color name="accent_text">#A74BFF</color>
+    <color name="edittext_border">#18FFFFFF</color>
+    <color name="edittext_background">#27000000</color>
+    <color name="dialog_border">#433D4E</color>
+    <color name="dialog_background">#2F2C35</color>
+    <color name="list_item_background">#2C2735</color>
+    <color name="list_item_concluded_background">#27312C</color>
+    <color name="list_item_concluded_border">#375245</color>
+    <color name="checkbox_green">#14955B</color>
+    <color name="text_green">#1ED985</color>
+</resources>
